@@ -10,6 +10,8 @@ namespace HelloWorld {
             Console.WriteLine("Olá Mundo!");
             Console.WriteLine("Nova mensagem.");
 
+            Console.ReadLine();
+
         }
     }
 }
